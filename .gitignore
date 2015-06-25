@@ -1,28 +1,63 @@
-# Compiled Object files
-*.slo
-*.lo
+# Object files
 *.o
+*.ko
 *.obj
+*.elf
 
 # Precompiled Headers
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
+# Libraries
+#*.lib
+#lib
 *.a
-*.lib
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+#*.dll
+*.so
+*.so.*
+*.dylib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
+*.i*86
+*.x86_64
+*.hex
+
+# vc
+*.aps
+*.exp
+*.user
+*.ncb
+*.ilk
+*.obj
+*.pdb
+*.suo
+*.htm
+*.idb
+*.manifest
+*.res
+*.dep
+*.user
+*.plg
+*.opt
+*.bsc
+*.clw
+*.tmp
+*.sbr
+*.sdf
+*.opensdf
+ipch
+Debug
+Release
+
+# cmake
+CMakeCache.txt
+CMakeFiles/*
+#Makefile
+#cmake*
