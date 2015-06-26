@@ -2567,3 +2567,14 @@ Changes to be committed:
 	new file:   "ZDoc/Http/\346\200\216\346\240\267\345\255\246\344\271\240 HTTP \345\215\217\350\256\256.7z"
 	new file:   "ZDoc/Http/\350\266\205\346\226\207\346\234\254\345\202\263\350\274\270\345\215\224\350\255\260-HTTP 1.1.mht.7z"
 
++---------+---------+---------+---------+---------+---------+---------+---------+ 
+d.2015/06/26.10_20_16.77.K.MzM.T@WS 
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   History.txt
+	new file:   ZSocket/T.Http.cs
+
