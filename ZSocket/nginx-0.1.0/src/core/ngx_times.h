@@ -1,5 +1,4 @@
-﻿
-/*
+﻿/*
  * Copyright (C) Igor Sysoev
  */
 
